@@ -18,7 +18,7 @@ Este projeto foi criado para uso pessoal, mas estou compartilhando aqui no GitHu
 
 ---
 
-https://chatgpt.com/s/m_681067656ddc81918fb42c11fc0c9347
+![ChatGPT Image 29 de abr  de 2025, 02_45_45](https://github.com/user-attachments/assets/67998386-6cde-4323-b61d-a1e0db862822)
 
 ## 🏗️ Arquitetura do Projeto
 
