@@ -18,6 +18,8 @@ Este projeto foi criado para uso pessoal, mas estou compartilhando aqui no GitHu
 
 ---
 
+https://chatgpt.com/s/m_681067656ddc81918fb42c11fc0c9347
+
 ## 🏗️ Arquitetura do Projeto
 
 O projeto possui duas funcionalidades principais:
